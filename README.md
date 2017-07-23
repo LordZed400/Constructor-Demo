@@ -7,4 +7,4 @@ This program demonstrates how different types of constructors work.
 - Parameterized Constructor
   
 - Copy Constructor
-![First Screenshot]("Screenshot 1")
+![First Screenshot](https://github.com/LordZed400/Constructor-Demo/blob/master/Screenshot-1.png "Screenshot 1")
